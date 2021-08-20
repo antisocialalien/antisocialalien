@@ -1,4 +1,4 @@
 <div align="center">
-<h2>🎵 Nah-nah-nah-nah-nah 🎵</h2>
-<img width="320" height="260" src="purple-thief.gif">
+<h1>🎵 Nah-nah-nah-nah-nah 🎵</h1>
+<img width="400" height="340" src="purple-thief.gif">
 </div>
