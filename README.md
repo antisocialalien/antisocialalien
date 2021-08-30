@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="400" height="340" src="beavis-computer.gif">
+  <img width="360" height="300" src="beavis-computer.gif">
 </div>
